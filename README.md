@@ -30,4 +30,5 @@ t.b.a
 
 ## Support
 
-If you need help with your submission, you can use our [![Join the chat at https://gitter.im/sigsep-mus-2018/Lobby](https://badges.gitter.im/sigsep-mus-2018/Lobby.svg)](https://gitter.im/sigsep-mus-2018/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+If you need help with your submission, you can use our 
+[![Join the chat at https://gitter.im/sigsep-mus-2018/Lobby](https://badges.gitter.im/sigsep-mus-2018/Lobby.svg)](https://gitter.im/sigsep-mus-2018/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
