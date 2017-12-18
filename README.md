@@ -1,10 +1,12 @@
 # SISEC MUS 2018 Submission
 
-For the MUS18 submission we are handling the submission of the results through GitHub (which means it will be necessary for any participant to have a github account). If you don't have experience with git, don't worry, as everything can be done from within the browser. Also we will add a full tutorial here.
+For the MUS18 submission we are handling the submission of the results through GitHub.
+
+>:warning: This means it will be necessary for any participant to have a github account. If you don't have experience with git, don't worry, as everything can be done from within the browser. Also we will add a full tutorial here.
 
 ## Dates
 
-- The submission system will be ready by March 1st, 2018
+- The submission system will be ready by __March 1st, 2018__ But you can start working on your separation method already!
 
 ## Submission
 
