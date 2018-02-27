@@ -3,7 +3,7 @@
 This is the submission system for the Professionally-produced music task of the [2018 SiSEC](https://sisec.inria.fr/2018-professionally-produced-music-recordings/).
 
 For the this year, we are handling the submission of the results through GitHub.
-This means it will be necessary for any participant to have a github account. If you don't have experience with git, don't worry, as everything can be done from within the browser. Also we will add a full tutorial here.
+This means it will be necessary for any participant to have a github account. If you don't have experience with git, don't worry, as everything can be done from within the browser.
 
 ## Dates
 
