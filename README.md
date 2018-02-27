@@ -68,7 +68,7 @@ In the following we describe the basic steps to create this pull request with yo
 7. Make the pull request title the same as your submission folder, and click the "Create Pull Request" button.
 8. This will take you the pull request page for your paper, with a URL like https://github.com/sigsep/sigsep-mus-2018/pull/2. Save this URL for future reference. At this point, you have finished your submission; don't close the pull request.
 9. Your submission will be tested by an [automated test system](/tests). We may instruct you to update your submission with a few changes. To do so, simply follow steps 2-4 again with your updated submission directory (i.e. navigate to the submissions directory in your fork and upload your new updated folder). The pull request will be updated automatically. Once the tests pass, we will merge your submission.
-10. This the merging should take place before the deadline of __April 1st 2018__.
+10. The merging should take place before the deadline of __April 1st 2018__.
 
 #### Further Notes
 
