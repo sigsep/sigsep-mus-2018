@@ -22,7 +22,7 @@ Download the dataset via the link on the [dataset website](https://sigsep.github
 
 Compute estimates using the python based [musdb tools](https://github.com/sigsep/sigsep-mus-db) or through your own custom method.
 
-In any case, make sure, your estimates folder does follow a certain schema. Lets assume your method is called `ABCD`:
+Lets assume your method is called `ABC1`. Make sure, your estimates folder then does look like in the following:
 
 ```
 ABC1/  <---------------------------------- Your estimate short name (max 4 characters)
