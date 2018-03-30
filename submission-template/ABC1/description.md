@@ -8,7 +8,7 @@ contact@author.com <!-- one corresponding mail address -->
 * __is_blind:__ no  <!-- if you used supervised learning, answer no -->
 * __additional_training_data:__ yes  <!-- if you used more data than musdb (not including data augmentation)-->
 
-## Supplemental Material
+## Supplementary Material
 
 * __Code:__ http://github.com/my/repo
 * __Demos:__ http://www.demo.com
