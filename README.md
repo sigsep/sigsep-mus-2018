@@ -8,7 +8,7 @@ This means it will be necessary for any participant to have a github account. If
 ## Dates
 
 - __March 1st, 2018__: The submission system is open.
-- ~~__April 1st 2018__~~ __April 3st 2018__: Deadline for submission results.
+- ~~__April 1st 2018__~~ __April 3rd 2018__: Deadline for submission results.
 
 ## Submission
 
