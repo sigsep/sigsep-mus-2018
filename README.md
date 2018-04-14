@@ -51,13 +51,15 @@ to be announced.
 
 ## Citation
 
-> @inproceedings{
+```
+@inproceedings{
   sisec2018,
   title={The 2018 signal separation evaluation campaign},
   author={F.-R. St{"o}ter and A. Liutkus and N. Ito},
   booktitle={International Conference on Latent Variable Analysis and Signal Separation},
   year={2018}
 }
+```
 
 ### Acknowledgements
 
