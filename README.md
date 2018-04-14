@@ -43,7 +43,7 @@ For the this year, submissions were handled via GitHub where each participant ha
 
 ## Analysis
 
-Please refer to the analysis repository.
+Please refer to the [analysis repository](https://github.com/sigsep/sigsep-mus-2018-analysis).
 
 ## Paper
 
