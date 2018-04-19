@@ -18,11 +18,12 @@ ciauaishere@gmail.com <!-- one corresponding mail address -->
 
 ## Method
 
-Denoising auto-encoder with skip connections. It shares some similarities with the U-Net proposed by Jansson et al., but has some major differences in architecture desing and skip connections.
+Denoising auto-encoder with skip connections. It shares some similarities with the U-Net proposed by Jansson et al. [2], but has some major differences in architecture design and skip connections. Further information will be updated in [1].
 
 In comparison to JY1 model, this one adds an enhancement module in addition to the main separation module.
 
 
 ## References
 
-- Jansson, A., Humphrey, E., Montecchio, N., Bittner, R., Kumar, A., and Weyde, T. U-NET CONVOLUTIONAL NETWORKS. Proceedings of ISMIR, 2017
+- [1] https://github.com/ciaua/MusicSourceSeparation
+- [2] Jansson, A., Humphrey, E., Montecchio, N., Bittner, R., Kumar, A., and Weyde, T. U-NET CONVOLUTIONAL NETWORKS. Proceedings of ISMIR, 2017
