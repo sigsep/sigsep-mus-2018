@@ -38,4 +38,4 @@ Figure 1. MDenseLSTM architecture (scale=3). A LSTM layer is added to the bottle
 ## References
 1. N. Takahashi and Y. Mitsufuji: Multi-scale multi-band DenseNets for audio source separation, Proc. WASPAA, 2017
 2. A. A. Nugraha, A. Liutkus, and E. Vincent. "Multichannel music separation with deep neural networks." EUSIPCO, 2016.
-3.  N. Takahashi, N. Goswami and Y. Mitsufuji: MMDenseLSTM: an efficient two way modeling for audio source separation, Submitted, 2018
+3. N. Takahashi, N. Goswami and Y. Mitsufuji: MMDenseLSTM: an efficient two way modeling for audio source separation, [arXiv pre-print](https://arxiv.org/abs/1805.02410), 2018
