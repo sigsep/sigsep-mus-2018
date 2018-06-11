@@ -14,7 +14,8 @@ Contact: d.stoller (AT) qmul.ac.uk <!-- one corresponding mail address -->
 
 ## Supplemental Material
 
-* __Code:__ Will be published at a later date
+* __Code:__ [Tensorflow implementation](https://github.com/f90/Wave-U-Net)
+* __Paper:__ [ArXiv preprint](https://arxiv.org/abs/1806.03185)
 
 ## Method
 
@@ -31,4 +32,4 @@ A paper with more details, experiments and analysis is currently under review el
 - Liutkus, Antoine and Fitzgerald, Derry and Rafii, Zafar: Scalable audio separation with light kernel additive modelling. 2015 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2015
 - Ronneberger, O. and Fischer, P. and Brox, T.: U-net: Convolutional networks for biomedical image segmentation. International Conference on Medical Image Computing and Computer-Assisted Intervention, 2015
 - Jansson, Andreas and Humphrey, Eric J. and Montecchio, Nicola and Bittner, Rachel and Kumar, Aparna and Weyde, Tillman: Singing Voice Separation with Deep U-Net Convolutional Networks. Proceedings of the International Society for Music Information Retrieval Conference (ISMIR), 2017.
-- Stoller, Daniel and Ewert, Sebastian and Dixon, Simon. Wave-U-Net: A multi-scale neural network for end-to-end source separation. Submission under Review, 2018.
+- [Stoller, Daniel and Ewert, Sebastian and Dixon, Simon. Wave-U-Net: A multi-scale neural network for end-to-end source separation. Proceedings of the International Society for Music Information Retrieval Conference (ISMIR), 2018.](https://arxiv.org/abs/1806.03185)
