@@ -23,7 +23,7 @@ For the this year, submissions were handled via GitHub where each participant ha
 | [MDLT](submissions/MDLT/description.md) | | |
 | [MELO](submissions/MELO/description.md) | :heavy_check_mark: | |
 | [MIX](submissions/MIX/description.md) | Oracle | |
-| [MWF](submissions/MWF/description.md) | | |
+| [MWF](submissions/MWF/description.md) | Oracle | |
 | [REP1](submissions/REP1/description.md) | :heavy_check_mark: | |
 | [REP2](submissions/REP2/description.md) | :heavy_check_mark: | |
 | [RGT1](submissions/RGT1/description.md) | | |
