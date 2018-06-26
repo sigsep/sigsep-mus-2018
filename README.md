@@ -20,7 +20,7 @@ For the this year, submissions were handled via GitHub where each participant ha
 | [JY2](submissions/JY2/description.md) | | |
 | [JY3](submissions/JY3/description.md) | | |
 | [MDL1](submissions/MDL1/description.md) | | |
-| [MDLT](submissions/MDL2/description.md) | | |
+| [MDLT](submissions/MDLT/description.md) | | |
 | [MELO](submissions/MELO/description.md) | :heavy_check_mark: | |
 | [MIX](submissions/MIX/description.md) | Oracle | |
 | [MWF](submissions/MWF/description.md) | | |
