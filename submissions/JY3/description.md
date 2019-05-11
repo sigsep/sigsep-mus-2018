@@ -25,5 +25,5 @@ In conparison to the JY1 model, this one uses a different scheme of skip connect
 
 ## References
 
-- [1] https://github.com/ciaua/MusicSourceSeparation
+- [1] Liu, J.-Y. and Yang, Y.-H., Denoising Auto-Encoder with Recurrent Skip Connections and Residual Regression for Music Source Separation. Proceedings of ICMLA, 2018
 - [2] Jansson, A., Humphrey, E., Montecchio, N., Bittner, R., Kumar, A., and Weyde, T. U-NET CONVOLUTIONAL NETWORKS. Proceedings of ISMIR, 2017
