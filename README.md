@@ -30,7 +30,7 @@ For the this year, submissions were handled via GitHub where each participant ha
 | [RGT2](submissions/RGT2/description.md) | | |
 | [RPCA](submissions/RPCA/description.md) | :heavy_check_mark: | |
 | [STL1](submissions/STL1/description.md) |  | :heavy_check_mark: |
-| [STL2](submissions/STL1/description.md) | | |
+| [STL2](submissions/STL2/description.md) | | |
 | [TAK1](submissions/TAK1/description.md) | | |
 | [TAK2](submissions/TAK2/description.md) | | :heavy_check_mark: |
 | [TAK3](submissions/TAK3/description.md) | | :heavy_check_mark: |
